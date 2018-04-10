@@ -1,0 +1,25 @@
+{
+  "name": "simple-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexInDaHouse/SimpleChat.git"
+  },
+  "author": "AlexInDaHouse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexInDaHouse/SimpleChat/issues"
+  },
+  "homepage": "https://github.com/AlexInDaHouse/SimpleChat#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.16.3",
+    "socket.io": "^2.1.0"
+  }
+}
